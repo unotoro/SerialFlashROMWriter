@@ -25,7 +25,7 @@ Openwrt(A5-V11)のシリアルフラッシュROMを4MB→16MBに置換した。
 
 ・ シリアルフラッシュROM基板
 
-  ![回路図](Schematic.pdf)
+  ![回路図](Schematic.png)
  
   ![全体図](ALL.JPG)
 
