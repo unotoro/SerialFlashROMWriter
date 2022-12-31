@@ -20,12 +20,18 @@ Openwrt(A5-V11)のシリアルフラッシュROMを4MB→16MBに置換した。
 
 # 構成
 ・ Arduino UNO
+
 ・ SDカードシールド
+
 ・ シリアルフラッシュROM基板
-  ![回路図](Schematic.pdf)
+
+ ![回路図](Schematic.pdf)
  
-  ![全体図](ALL.JPG)
-  ![rom](ROM.JPG)
+
+ ![全体図](ALL.JPG)
+
+ ![rom](ROM.JPG)
+
   抵抗はSMDで裏側
   
   https://github.com/Tamakichi/Arduino-W25Q64
